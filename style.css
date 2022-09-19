@@ -141,23 +141,31 @@ main{
 
 footer{
     background-color: #3161e0;
-    height: 600px;
+    height: 650px;
 }
 
 .container-flex5{
     display: flex;
     flex-direction: row;
     width: 100%;
+    margin: auto;
 }
 
 .red{
     background-color: red;
-    height: 150px;
-    width: 20%;
+    height: 550px;
+    width: 100%;
+    margin: auto;
 }
 
 .red1{
     background-color: rgb(117, 0, 0);
-    height: 150px;
+    height: 550px;
+    width: 100%;
+    margin:auto;
+}
+
+.gran{
     width: 20%;
+    height: 600px;
 }
